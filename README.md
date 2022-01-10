@@ -20,13 +20,24 @@ N.b. Not currently on the Chrome Web Store.
 2. Type your query as you normally would and press enter.
 3. Search opens in new tab. 
 
-You can update the preset list of search engines in search.js (see presetList). Note the convention follows the convention of replacing the query text w/ '%s' found in selecting search engines in Chrome/Brave.
-
 _N.b. I'm not sure yet how to change the "default" engine randomly w/o the burden of a popup telling you that it has been changed._
 
 The search opening in a new tab is not my normal process. I would prefer, I think, to run in the current tab. TODO
 
 _Remember: Get to the address bar by hitting Cmd+L (Mac) / Ctrl+L (Windows)._
+
+# preset list of search engines
+
+- www.duckduckgo.com
+- www.search.brave.com
+- www.twitter.com
+- www.bing.com
+- www.ecosia.org
+- www.google.com
+- www.qwant.com
+- www.you.com
+
+You can update the preset list of search engines in search.js (see presetList). Note the convention follows the convention of replacing the query text w/ '%s' found in selecting search engines in Chrome/Brave.
 
 # citations
 
@@ -34,3 +45,4 @@ Credit to:
 
 - This comment from Reddit user Cabidiwa for getting me started: https://www.reddit.com/r/brave_browser/comments/np9xdr/comment/h04b10o/
 - I didn't understand that code at all and wasn't wanting to be sending every random query to a website that I could learn much about. I used this reference in the documentation from Chrome to get to something I understood and trusted:https://developer.chrome.com/docs/extensions/reference/omnibox/
+- 
