@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "query random se",
+  "version": "1.0",
+  "omnibox": { "keyword" : "q" },
+  "icons": {
+    "16": "images/favicon-16x16.png"
+  },
+  "background": {
+    "persistent": false,
+    "scripts": ["search.js"]
+  }
+}
