@@ -24,6 +24,10 @@ You can update the preset list of search engines in search.js (see presetList). 
 
 _N.b. I'm not sure yet how to change the "default" engine randomly w/o the burden of a popup telling you that it has been changed._
 
+The search opening in a new tab is not my normal process. I would prefer, I think, to run in the current tab. TODO
+
+_Remember: Get to the address bar by hitting Cmd+L (Mac) / Ctrl+L (Windows)._
+
 # citations
 
 Credit to:
