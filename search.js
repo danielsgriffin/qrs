@@ -15,7 +15,3 @@ chrome.omnibox.onInputEntered.addListener(function(text) {
   var newURL = presetList[randomIdx].replace("%s", encodeURIComponent(text));
   chrome.tabs.create({ url: newURL });
 });
-
-// Credit to:
-// - This comment for getting me started: https://www.reddit.com/r/brave_browser/comments/np9xdr/randomize_search_engines/
-// - This for helping me get to something I understood: https://developer.chrome.com/docs/extensions/reference/omnibox/
