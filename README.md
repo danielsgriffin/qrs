@@ -36,6 +36,7 @@ _Remember: Get to the address bar by hitting Cmd+L (Mac) / Ctrl+L (Windows)._
 - www.google.com
 - www.qwant.com
 - www.you.com
+- www.neeva.com
 
 You can update the preset list of search engines in search.js (see presetList). Note the convention follows the convention of replacing the query text w/ '%s' found in selecting search engines in Chrome/Brave.
 
