@@ -36,7 +36,7 @@ _Remember: Get to the address bar by hitting Cmd+L (Mac) / Ctrl+L (Windows)._
 - www.google.com
 - www.qwant.com
 - www.you.com
-- www.neeva.com
+- www.perplexity.ai
 
 You can update the preset list of search engines in search.js (see presetList). Note the convention follows the convention of replacing the query text w/ '%s' found in selecting search engines in Chrome/Brave.
 
@@ -46,4 +46,3 @@ Credit to:
 
 - This comment from Reddit user Cabidiwa for getting me started: https://www.reddit.com/r/brave_browser/comments/np9xdr/comment/h04b10o/
 - I didn't understand that code at all and wasn't wanting to be sending every random query to a website that I could learn much about. I used this reference in the documentation from Chrome to get to something I understood and trusted:https://developer.chrome.com/docs/extensions/reference/omnibox/
-- 
